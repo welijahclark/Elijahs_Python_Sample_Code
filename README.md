@@ -1,1 +1,3 @@
-Hello! This repository exists to showcase that I know how to use Jupyter Notebooks, as well as the numpy, pandas, and seaborn libraries within Python.
+This repository exists to showcase that I know how to use Jupyter Notebooks.
+
+This respository also shows that I know how to use the numpy, pandas, and seaborn libraries for Python.
